@@ -95,5 +95,10 @@ font-size: 18px;
 margin:0;
 color: #AB4642;
 word-wrap: break-word;}
+.Style24{font-family: 'ArialMT','Arial',sans-serif;
+font-size: 24px; 
+margin:0;
+color: #407742;
+word-wrap: break-word;}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
