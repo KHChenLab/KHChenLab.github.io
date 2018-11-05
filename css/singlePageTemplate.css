@@ -153,6 +153,9 @@ ul li:hover a {
 }
 /* More info */
 footer {
+	clear: both;
+	display: inline-block;
+	width: 100%;
 	background-color: #FFFFFF;
 	padding-bottom: 35px;
 }
@@ -166,10 +169,6 @@ footer .footer_column h3 {
 	color: black;
 	text-align: center;
 }
-footer .footer_column p {
-	color: #717070;
-	background-color: #FFFFFF;
-}
 .cards {
 	width: 100%;
 	height: auto;
@@ -177,6 +176,8 @@ footer .footer_column p {
 	max-height: 200px;
 }
 footer .footer_column p {
+	color: #717070;
+	background-color: #FFFFFF;
 	padding-left: 30px;
 	padding-right: 30px;
 	text-align: justify;
