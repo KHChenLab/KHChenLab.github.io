@@ -249,7 +249,7 @@ footer {
 .logo {
 	width: 100%;
 	text-align: center;
-	margin-top: 13px;
+	margin-top: 11px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
@@ -306,7 +306,7 @@ nav ul li {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
-	width: 90%;
+	width: 95%;
 	margin-top: 25px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -322,10 +322,19 @@ nav ul li {
 	margin-top: 20px;
 	line-height: 22px;
 }
+.hero {
+	background-image: url(../images/back.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-color: black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
 .hero_header {
 	padding-left: 10px;
 	padding-right: 10px;
-	line-height: 22px;
+	line-height: 20px;
 	text-align: center;
 }
 }
