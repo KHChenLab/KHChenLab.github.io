@@ -323,20 +323,24 @@ nav ul li {
 	line-height: 22px;
 }
 .hero {
+	width: 100%;
 	background-image: url(../images/back.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-color: black;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
 }
 
 .hero_header {
-	padding-left: 10px;
-	padding-right: 10px;
-	line-height: 50px;
+	width: 100%;
 	text-align: center;
-}
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
 }
 
 /* Small Tablets */
