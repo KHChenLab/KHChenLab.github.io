@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* Body */
-body {
+body {mob
 	font-family: source-sans-pro;
 	background-color: #f2f2f2;
 	margin-top: 0px;
@@ -245,7 +245,7 @@ footer {
 }
 
 /* Mobile */
-@media (max-width: 320px) {
+@media (max-width: 420px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -315,6 +315,7 @@ nav ul li {
 	text-align: center;
 }
 .banner {
+	width: 100%;
 	background-color: #2D9AB7;
 	background-image: none;
 }
@@ -323,6 +324,7 @@ nav ul li {
 	line-height: 22px;
 }
 .hero {
+	width: 100%;
 	background-image: url(../images/back.png);
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -334,6 +336,7 @@ nav ul li {
 }
 
 .hero_header {
+	width: 100%;
 	text-align: center;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -342,7 +345,7 @@ nav ul li {
 }
 
 /* Small Tablets */
-@media (min-width: 321px)and (max-width: 767px) {
+@media (min-width: 421px)and (max-width: 767px) {
 .logo {
 	width: 100%;
 	text-align: center;
