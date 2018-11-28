@@ -345,7 +345,7 @@ nav ul li {
 }
 
 /* Small Tablets */
-@media (min-width: 421px)and (max-width: 1000px) {
+@media (min-width: 421px)and (max-width: 700px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -452,13 +452,13 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 601px) and (max-width: 1024px) {
+@media (min-width: 701px) and (max-width: 924px) {
 
 	.thumbnail {
 	width: 50%;
 }
 .text_column {
-	width: 100%;
+	width: 0%;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
