@@ -452,7 +452,7 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 601px) and (max-width: 950px) {
+@media (min-width: 601px) and (max-width: 1200px) {
 .text_column {
 	width: 100%;
 }
