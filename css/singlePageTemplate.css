@@ -97,16 +97,16 @@ ul li:hover a {
 	width: 29%;
 	text-align: justify;
 	font-weight: lighter;
-	line-height: 25px;
+	line-height: 22px;
 	float: left;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
 	color: black;
 }
 .about {
-	padding-left: 25px;
-	padding-right: 25px;
-	padding-top: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 30px;
 	display: inline-block;
 	background-color: #FFFFFF;
 	margin-top: 0px;
@@ -452,7 +452,7 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 601px) and (max-width: 1096px) {
+@media (min-width: 601px) and (max-width: 950px) {
 .text_column {
 	width: 100%;
 }
