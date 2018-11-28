@@ -294,7 +294,7 @@ nav ul li {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	padding-top: 40%;
+	padding-top: 10%;
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
@@ -307,7 +307,7 @@ nav ul li {
 	padding-bottom: 0px;
 	padding-left: 0px;
 	width: 95%;
-	margin-top: 25px;
+	margin-top: 12px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 12px;
@@ -345,7 +345,7 @@ nav ul li {
 }
 
 /* Small Tablets */
-@media (min-width: 421px)and (max-width: 767px) {
+@media (min-width: 421px)and (max-width: 600px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -452,7 +452,7 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 768px) and (max-width: 1096px) {
+@media (min-width: 601px) and (max-width: 1096px) {
 .text_column {
 	width: 100%;
 }
