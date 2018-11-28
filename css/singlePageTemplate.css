@@ -452,13 +452,13 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 1001px) and (max-width: 924px) {
+@media (min-width: 701px) and (max-width: 924px) {
 
 	.thumbnail {
 	width: 50%;
 }
 .text_column {
-	width: 0%;
+	width: 50%;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
