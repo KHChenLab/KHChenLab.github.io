@@ -97,7 +97,7 @@ ul li:hover a {
 	width: 29%;
 	text-align: justify;
 	font-weight: lighter;
-	line-height: 26px;
+	line-height: 24px;
 	float: left;
 	padding-left: 18px;
 	padding-right: 18px;
@@ -345,7 +345,7 @@ nav ul li {
 }
 
 /* Small Tablets */
-@media (min-width: 421px)and (max-width: 600px) {
+@media (min-width: 421px)and (max-width: 1000px) {
 .logo {
 	width: 100%;
 	text-align: center;
@@ -453,10 +453,8 @@ nav ul li {
 
 /* Small Desktops */
 @media (min-width: 601px) and (max-width: 1024px) {
-.text_column {
-	width: 100%;
-}
-.thumbnail {
+
+	.thumbnail {
 	width: 50%;
 }
 .text_column {
