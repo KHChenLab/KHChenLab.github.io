@@ -452,7 +452,7 @@ nav ul li {
 }
 
 /* Small Desktops */
-@media (min-width: 701px) and (max-width: 924px) {
+@media (min-width: 1001px) and (max-width: 924px) {
 
 	.thumbnail {
 	width: 50%;
