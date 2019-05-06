@@ -99,14 +99,14 @@ ul li:hover a {
 	font-weight: lighter;
 	line-height: 24px;
 	float: left;
-	padding-left: 18px;
-	padding-right: 18px;
+	padding-left: 14px;
+	padding-right: 14px;
 	color: black;
 }
 .about {
-	padding-left: 18px;
-	padding-right: 18px;
-	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
 	display: inline-block;
 	background-color: #FFFFFF;
 	margin-top: 0px;
@@ -162,7 +162,7 @@ footer {
 .footer_column {
 	width: 50%;
 	text-align: center;
-	padding-top: 30px;
+	padding-top: 20px;
 	float: left;
 }
 footer .footer_column h3 {
@@ -178,13 +178,13 @@ footer .footer_column h3 {
 footer .footer_column p {
 	color: #717070;
 	background-color: #FFFFFF;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
 	text-align: justify;
-	line-height: 25px;
+	line-height: 24px;
 	font-weight: lighter;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 16px;
+	margin-right: 16px;
 }
 /* Parallax Section */
 .banner {
