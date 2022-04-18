@@ -187,6 +187,14 @@ footer .footer_column p {
 	margin-right: 16px;
 }
 /* Parallax Section */
+.banner2 {
+	background-color: #2D9AB7;
+	background-image: url(../images/BANKSY.png);
+	height: 260px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 .banner1 {
 	background-color: #2D9AB7;
 	background-image: url(../images/split-FISH.png);
@@ -217,7 +225,7 @@ footer .footer_column p {
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
-.banner2 {
+.banner {
 	background-color: #2D9AB7;
 	background-image: url(../images/parallax.png);
 	height: 260px;
