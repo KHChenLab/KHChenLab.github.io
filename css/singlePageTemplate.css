@@ -73,10 +73,10 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-image: url(../images/back.png);
+	background-image: url(../images/groupPhoto.png);
 	background-repeat: no-repeat;
 	background-position: center top;
-	background-color: black;
+	background-color: lightgrey;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
